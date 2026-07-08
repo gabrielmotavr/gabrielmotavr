@@ -1,14 +1,22 @@
-<h1 align="center">Olá! 👋 Eu sou o Gabriel Mota</h1>
+<div align="center">
 
-<p align="center">
-  💻 Estagiário de TI • 🎓 Engenharia de Software • 🚀 Desenvolvedor em formação
-</p>
+# Gabriel Mota
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/gabrielmotavr">
-    <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Mota-0A66C2?style=for-the-badge&logo=linkedin">
-  </a>
-</p>
+### 💻 IT Intern | 🎓 Software Engineering Student | 🚀 Full Stack Developer
+
+*"Turning ideas into code and continuously improving every day."*
+
+<br>
+
+<a href="https://www.linkedin.com/in/gabrielmotavr">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:gabrielmotaproo@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
