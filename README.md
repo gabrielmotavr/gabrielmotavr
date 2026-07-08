@@ -2,9 +2,9 @@
 
 # Gabriel Mota
 
-### 💻 IT Intern | 🎓 Software Engineering Student | 🚀 Full Stack Developer
+### 💻 Estágio Desenvolvimento | 🎓 Estudante de Engenharia de Software | 🚀 Desenvolvedor Full Stack
 
-*"Turning ideas into code and continuously improving every day."*
+*"Desenvolvendo soluções para problemas reais."*
 
 <br>
 
