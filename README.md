@@ -1,21 +1,21 @@
 <div align="center">
 
-  <!-- Banner Animado Verde -->
+  <!-- Apresentação em código e animação -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF66&center=true&vcenter=true&width=500&lines=Ol%C3%A1%2C+sou+o+Gabriel+Mota!👋;Estudante+de+Engenharia+de+Software;Estagi%C3%A1rio+de+TI+%26+Dev+Full+Stack" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vcenter=true&width=600&lines=Gabriel+Mota+%7C+Software+Engineering;Dev+Full+Stack+%26+Product+Mindset;Transformando+c%C3%B3digo+em+solu%C3%A7%C3%B5es+de+neg%C3%B3cio" alt="Typing SVG" />
   </a>
 
   <br><br>
 
-  <!-- Badges de Contato -->
+  <!-- Badges de Contato Direto -->
   <a href="https://www.linkedin.com/in/gabrielmotavr" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-00B33C?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:gabrielmotaproo@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-113F1D?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/gabrielmotavr?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositórios-002B11?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Repositórios-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
 </div>
@@ -24,69 +24,56 @@
 
 ---
 
-## 👨‍💻 Sobre Mim
+## 👨‍💻 Sobre mim
 
-<table>
-  <tr>
-    <td width="60%">
-      Sou estudante de <b>Engenharia de Software na PUC Minas</b> e atuo como <b>Estagiário de TI</b>, desenvolvendo soluções para sistemas internos, integrações, manutenção e suporte.
-      <br><br>
-      🎯 <b>Interesses Principais:</b>
-      <ul>
-        <li>🌐 Desenvolvimento Web (React & Node.js)</li>
-        <li>☕ Ecossistema Java & Backend</li>
-        <li>🗄️ Arquitetura de Banco de Dados</li>
-        <li>🏗️ Boas Práticas e Clean Code</li>
-      </ul>
-      💡 <i>"A melhor forma de aprender é construindo."</i>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJuZXU0bndxeHVvODd0eGpoMnBycndza2x1d3J2N3NsdnA5enF0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUGGAC3P4vLIZK54/giphy.gif" width="240px" alt="Coding GIF">
-    </td>
-  </tr>
-</table>
+Estudante de **Engenharia de Software na PUC Minas** (técnico em Informática pelo **COTEMIG**), atuando com desenvolvimento de sistemas, integração de APIs, análise de dados e suporte técnico na **FS Consultores**.
+
+Minha visão vai além de escrever código: busco entender a regra de negócio e o impacto real do produto. Tenho grande interesse em **arquitetura de software, desenvolvimento backend, produtos digitais e empreendedorismo**.
+
+* **Graduação:** Engenharia de Software – PUC Minas
+* **Foco Atual:** Backend (Node.js & Java / Spring Boot) + Frontend (React)
+* **Atuação:** Automações, sistemas internos, modelagem de dados e APIs REST
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Stack Técnica & Ferramentas
 
 <div align="center">
 
 ### **Linguagens & Frameworks**
-![Skill Icons](https://skillicons.dev/icons?i=js,ts,java,python,html,css,react,bootstrap,nodejs,express&perline=10)
+![Skill Icons](https://skillicons.dev/icons?i=ts,js,java,python,nodejs,express,react,bootstrap&perline=8)
 
 <br>
 
 ### **Bancos de Dados & Ferramentas**
-![Skill Icons](https://skillicons.dev/icons?i=mysql,postgres,firebase,git,github,vscode,visualstudio,postman,npm&perline=9)
+![Skill Icons](https://skillicons.dev/icons?i=postgres,mysql,firebase,git,github,vscode,postman,npm&perline=8)
 
 </div>
 
 <br>
 
 <details>
-<summary><b>📌 Outras Tecnologias & Conhecimentos (Clique para expandir)</b></summary>
+<summary><b>📌 Outras Tecnologias & Conhecimentos Práticos</b></summary>
 <br>
 
-- **Bancos de Dados:** Firebird SQL, IBExpert, SQL Server (básico), Stored Procedures, Consultas SQL e Modelagem.
-- **Ferramentas e Práticas:** REST APIs, JSON Server, Swagger, GitHub Projects, Trello, Figma, Pacote Office.
+- **Bancos de Dados & SQL:** Firebird SQL, IBExpert, SQL Server, Stored Procedures, Consultas Otimizadas e Modelagem ER.
+- **Negócios & Dados:** Power BI, Análise de Dados, Automação de Processos, Swagger/OpenAPI, REST APIs, JSON Server.
+- **Gestão & Visão de Produto:** Visão de Product Owner (PO), Clean Code, Estruturas de Dados, Trello e Figma.
 </details>
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas e Atividade no GitHub
 
 <div align="center">
 
-  <!-- Removido o count_private para evitar o erro de requisição -->
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gabrielmotavr&show_icons=true&theme=matrix&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmotavr&layout=compact&theme=matrix&hide_border=true&hide=html,css" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gabrielmotavr&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmotavr&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" />
 
   <br><br>
 
-  <!-- Gráfico de Atividade Verde -->
   <a href="https://github.com/gabrielmotavr">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielmotavr&theme=github-green" width="100%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielmotavr&theme=tokyo-night&bg_color=1a1b26" width="100%" />
   </a>
 
 </div>
@@ -94,5 +81,5 @@
 ---
 
 <div align="center">
-  <sub>Desenvolvido com 💻 por Gabriel Mota</sub>
+  <sub><i>"A melhor forma de aprender é construindo soluções que geram valor real."</i></sub>
 </div>
